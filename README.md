@@ -37,7 +37,7 @@ Say "yes" for create resources.
 
 After the process will be accomplished, you have to see a similar output.
 
-![Output terraform apply]()
+![Output terraform apply](https://github.com/kkkooosss/Terraform-creation_environment_for_React_app/tree/master/pictures)
 
 Now you have to go to your Consul and check all resources that were created. 
 
