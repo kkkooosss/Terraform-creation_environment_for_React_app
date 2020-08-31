@@ -45,4 +45,18 @@ For use Pipeline, we have to change security groups attached to RDS postgres ins
 
 Now you can go to [React-app-for-multi-docker-elb-ecs-service](https://github.com/kkkooosss/React-app-for-multi-docker-elb-ecs-service/blob/master/README.md) repository and test Pipeline.
 
+_Note! Do not forget to remove all resources after you finish._
+
+Command for removing.
+
+``` 
+terraform destroy
+```
+Say "yes"
+
+After the process will be accomplished, you have to see a similar output.
+
+![Output terraform destroy](https://github.com/kkkooosss/Terraform-creation_environment_for_React_app/blob/master/pictures/Output_terraform_destroy.png)
+
+
 Good Luck.
