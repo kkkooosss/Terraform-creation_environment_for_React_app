@@ -39,9 +39,6 @@ After the process will be accomplished, you have to see a similar output.
 
 <<<<<<< HEAD
 ![Output terraform apply](https://github.com/kkkooosss/Terraform-creation_environment_for_React_app/tree/master/pictures/Output_terraform_apply.png)
-=======
-![Output terraform apply](https://github.com/kkkooosss/Terraform-creation_environment_for_React_app/blob/master/pictures/Output_terraform_apply.png)
->>>>>>> fb25670ebcc8bd1bd6ff1d7b536bbf7f5a6fb5af
 
 Now you have to go to your Consul and check all resources that were created. 
 
@@ -62,9 +59,4 @@ After the process will be accomplished, you have to see a similar output.
 
 ![Output terraform destroy](https://github.com/kkkooosss/Terraform-creation_environment_for_React_app/blob/master/pictures/Output_terraform_destroy.png)
 
-
-<<<<<<< HEAD
-
-=======
->>>>>>> fb25670ebcc8bd1bd6ff1d7b536bbf7f5a6fb5af
 Good Luck.
